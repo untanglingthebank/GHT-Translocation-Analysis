@@ -4,5 +4,5 @@
 #Code written using R 4.3.1 and RStudio 2023.09.0+463
 
 
-#For more information of the project, visit: untanglingthebank.com
+#For more information of the project, visit: www.untanglingthebank.com
 #If you have any queries, direct them to: hugh.m.richards96@gmail.com
